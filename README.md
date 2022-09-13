@@ -8,7 +8,7 @@ Background Context
 Sometimes you will know the language, sometimes not.
 
 # Requirements
-<b>General</b>
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS
-All your files should end with a new line
+<b>General\n</b>
+Allowed editors: vi, vim, emacs\n
+All your files will be compiled on Ubuntu 20.04 LTS\n
+All your files should end with a new line\n
